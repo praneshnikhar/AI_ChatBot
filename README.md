@@ -4,3 +4,4 @@
 4)In the IDE install packages. cmd >>( pip install langchain langchain_ollama ollama )<br />
 5)run the main.py<br />
 6)ask anything to the chatbot!!<br />
+-pranesh
